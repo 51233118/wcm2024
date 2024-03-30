@@ -1,0 +1,14 @@
+import fitz  # install using: pip install fitz PyMuPDF
+
+pdf_file = "IntroducingJavaScriptGameDevel.pdf"
+output_file = "progit.txt"
+
+with fitz.open(pdf_file) as doc:
+    text = ""
+    for page in doc:
+        text += page.get_text()
+
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(text)
+
+print(f"Text extracted from '{pdf_file}' has been saved to '{output_file}'.")
