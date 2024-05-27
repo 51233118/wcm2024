@@ -7,7 +7,7 @@ Slug: wcm-5j-w5
 Author: 51233118
 ---
 
-第五周將利用與ChatGPT的對話,整理與精密機械觀的問題詢答紀錄
+第五週所有內容
 
 <!-- PELICAN_END_SUMMARY -->
 
