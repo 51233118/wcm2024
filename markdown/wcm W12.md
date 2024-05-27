@@ -7,6 +7,16 @@ Slug: wcm-5j-w12
 Author: 51233118
 ---
 
-第五周將利用與ChatGPT的對話,整理與精密機械觀的問題詢答紀錄
+第十二週所有內容
 
 <!-- PELICAN_END_SUMMARY -->
+
+第十二週
+
+升級Python
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7zTJ76sPuw?si=l7vPpzyPIQ6pqje1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+完憤怒鳥
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPZPUcVlU5w?si=iFPSZ3rmwWfIDXkB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -7,6 +7,14 @@ Slug: wcm-5j-w9
 Author: 51233118
 ---
 
-第五周將利用與ChatGPT的對話,整理與精密機械觀的問題詢答紀錄
+第九週所有內容
 
 <!-- PELICAN_END_SUMMARY -->
+
+第九週
+
+期中整理
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ndxVz3gaVvs?si=_SzmwicQXrvQAEOv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CBJ6mhGZEo0?si=kvuRMBOt1kQZ4poJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

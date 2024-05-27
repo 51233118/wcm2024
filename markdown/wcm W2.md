@@ -7,6 +7,10 @@ Slug: wcm-5j-w2
 Author: 51233118
 ---
 
-第五周將利用與ChatGPT的對話,整理與精密機械觀的問題詢答紀錄
+第二週所有內容
 
 <!-- PELICAN_END_SUMMARY -->
+
+第二周
+
+簡單說明如何利用 Gmail 帳號登入 chatgpt,並進行提問
