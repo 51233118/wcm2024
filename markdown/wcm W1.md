@@ -11,7 +11,7 @@ Author: 51233118
 
 <!-- PELICAN_END_SUMMARY -->
 
-第一周
+第一週
 
 老師要我們申請一個 Github 的帳號,且也要在手機上也下載 Github 的APP,這樣才可以執行兩段式驗證
 

@@ -11,7 +11,7 @@ Author: 51233118
 
 <!-- PELICAN_END_SUMMARY -->
 
-第七周
+第七週
 
 開始說明如何在頁面配置 Brython 環境, 並將 Brython 程式配置在個人 Github 帳號下的 Gist.
 

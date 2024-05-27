@@ -11,6 +11,6 @@ Author: 51233118
 
 <!-- PELICAN_END_SUMMARY -->
 
-第二周
+第二週
 
 簡單說明如何利用 Gmail 帳號登入 chatgpt,並進行提問

@@ -11,7 +11,7 @@ Author: 51233118
 
 <!-- PELICAN_END_SUMMARY -->
 
-第四周
+第四週
 
 說明如何建立短網址的 Github Pages 
 

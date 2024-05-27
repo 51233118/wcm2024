@@ -11,6 +11,8 @@ Author: 51233118
 
 <!-- PELICAN_END_SUMMARY -->
 
+第五週
+
 # 對 ChatGPT 提問
 
 - 未來在精密機械專業尋找實習機會，需要準備哪些資料

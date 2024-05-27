@@ -11,7 +11,7 @@ Author: 51233118
 
 <!-- PELICAN_END_SUMMARY -->
 
-第八周
+第八週
 
 首先,對 ChatGPT 提問: Brython 是甚麼程式語言? 該如何使用?
 

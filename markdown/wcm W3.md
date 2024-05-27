@@ -11,7 +11,7 @@ Author: 51233118
 
 <!-- PELICAN_END_SUMMARY -->
 
-第三周
+第三週
 
 下載可攜程式環境: portable_2024.7z
 

@@ -11,7 +11,7 @@ Author: 51233118
 
 <!-- PELICAN_END_SUMMARY -->
 
-第六周
+第六週
 
 建立英文單字查詢 html 檔案
 
