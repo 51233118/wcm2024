@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第十二周課程內容
+Title: wcm 五專第十二週課程內容
 Date: 2024-05-06 
 Category: 五專
 Tags: Chatgpt,w12

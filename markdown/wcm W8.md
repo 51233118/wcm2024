@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第八周課程內容
+Title: wcm 五專第八週課程內容
 Date: 2024-04-08 
 Category: 五專
 Tags: Chatgpt,w8

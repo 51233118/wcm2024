@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第十三周課程內容
+Title: wcm 五專第十三週課程內容
 Date: 2024-05-13 
 Category: 五專
 Tags: Chatgpt,w13

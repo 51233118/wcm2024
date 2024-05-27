@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第七周課程內容
+Title: wcm 五專第七週課程內容
 Date: 2024-04-01 
 Category: 五專
 Tags: Chatgpt,w7

@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第十四周課程內容
+Title: wcm 五專第十四週課程內容
 Date: 2024-05-20 
 Category: 五專
 Tags: Chatgpt,w14

@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第六周課程內容
+Title: wcm 五專第六週課程內容
 Date: 2024-03-25 
 Category:五專 
 Tags: Chatgpt,w6

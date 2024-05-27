@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第一周課程內容
+Title: wcm 五專第一週課程內容
 Date: 2024-02-19 
 Category: 五專
 Tags: Chatgpt,w1

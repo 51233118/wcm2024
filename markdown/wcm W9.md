@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第九周課程內容
+Title: wcm 五專第九週課程內容
 Date: 2024-04-15 
 Category: 五專
 Tags: Chatgpt,w9

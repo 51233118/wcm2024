@@ -1,5 +1,5 @@
 ---
-Title: wcm 五專第二周課程內容
+Title: wcm 五專第二週課程內容
 Date: 2024-02-02
 Category: 五專
 Tags: Chatgpt,w2
