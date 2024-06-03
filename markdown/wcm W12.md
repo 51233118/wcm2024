@@ -17,6 +17,6 @@ Author: 51233118
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W7zTJ76sPuw?si=l7vPpzyPIQ6pqje1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-完憤怒鳥
+玩憤怒鳥
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPZPUcVlU5w?si=iFPSZ3rmwWfIDXkB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
